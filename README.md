@@ -1,2 +1,1 @@
-# faces-binaries
-Repo to place the binary data files
+This repository is used to place various image and binary data files to fetch from...
